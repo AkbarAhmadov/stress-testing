@@ -1,4 +1,4 @@
-For using you must write "generator.cpp" first. This is a code for generate random test cases.
+For using you must write "generator.cpp" first. This is a code for generate random test cases. For more comfortable there is also sum functions for get random number or print arrays. But you can write yourself if you want.
 
 Formally "generator.cpp" creates input for "correct.cpp" and "hack.cpp". And after that "stress.py" checks the ouputs and if they are not equal, process will stop.
 
